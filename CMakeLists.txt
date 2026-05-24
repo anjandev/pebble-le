@@ -5,7 +5,7 @@
 #  pebble-le - Main CMake build file.
 #
 
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.10)
 project(pebble-le VERSION 0.3.0)
 
 # Build Options
